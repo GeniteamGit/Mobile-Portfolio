@@ -150,3 +150,36 @@ Web
 
 <p align="center">
 <img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/paypal.png" width="690">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+## Eternity Health App
+
+Eternity is a creative, consumer-focused, health-initiative app founded by doctors and business people who recognize that the current health care model is broken and should be monitored as per latest technology trends..
+
+### Technologies
+
+Swift, Objective-C
+
+<p align="center">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/health.png" width="690">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+## Al Danah
+
+Grab your deals by visiting location given in the quest. User has to physically go to certain location, perform certain tasks & get some deals of prizes or coupons.
+
+### Technologies
+
+Swift, Objective-C
+
+<p align="center">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/danah.png" width="690">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+## Tarot Flip
+
+TAROT FLIP is an augmented reality tarot experience. Pick an avatar that best represents your mood and when your avatar appears on the screen, press down on the deck of cards to mix as you ask a question. Let go when you feel it’s right. A destined tarot card will flip and your avatar will experience the answer to your question in augmented reality.
+
+### Technologies
+
+Swift, Objective-C
+
+<p align="center">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/tarot.png" width="690">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
