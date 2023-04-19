@@ -5,30 +5,33 @@ We have a deep understanding of iOS frameworks and have experience in developing
 We have a track record of delivering high-quality projects on time and within budget, and our clients appreciate our communication skills and our ability to understand their needs and goals. As a team, we collaborate closely with our clients to ensure that we develop the best possible solutions for their businesses. We take pride in our work and are committed to providing exceptional service to our clients.
 
 ## [KleanKars iOS](https://apps.apple.com/us/app/kleankars/id1246083916)
-## [KleanKars Buddy iOS](https://apps.apple.com/pk/app/kleankars-buddy/id1246084619)
 
+## [KleanKars Buddy iOS](https://apps.apple.com/pk/app/kleankars-buddy/id1246084619)
 
 <p align="center">
 <img src="https://github.com/saudGeniteam/Mobile-Portfolio/blob/main/firstUser.png?" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/saudGeniteam/Mobile-Portfolio/blob/main/secondUser.png?" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/saudGeniteam/Mobile-Portfolio/blob/main/thirdUser.png?" width="230">
 </p>
 
 ## [KleanKars Android](https://play.google.com/store/apps/details?id=com.kleankars.kleankarsusers)
+
 ## [KleanKars Buddy Android](https://play.google.com/store/apps/details?id=com.kleankars.kleankarsbuddy)
 
-Kleankars is an On-Demand Waterless Car Cleaning App which provides Customers with the luxury of getting their vehicles cleaned, anytime anywhere, by connecting them with the nearest Cleaners or Kleankars Buddies. 
+Kleankars is an On-Demand Waterless Car Cleaning App which provides Customers with the luxury of getting their vehicles cleaned, anytime anywhere, by connecting them with the nearest Cleaners or Kleankars Buddies.
 
 Kleankars Customers can simply download the Kleankars app, register and place an order while in office, home, restaurant or anywhere, by choosing one of the packages. They are immediately connected with the nearest Kleankars Buddy who accepts the service request and clean the cars within minutes. Once job is completed the Customer is charged on the credit card associated with account.
 
-### Technologies ###
-Java, Objective-C, Firebase, AFNetworking
+### Technologies
 
+Java, Objective-C, Firebase, AFNetworking
 
 <p align="center">
 <img src="https://github.com/saudGeniteam/Mobile-Portfolio/blob/main/firstBuddy.png?" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/saudGeniteam/Mobile-Portfolio/blob/main/secondBuddy.png?" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/saudGeniteam/Mobile-Portfolio/blob/main/thirdBuddy.png?" width="230">
 </p>
 
 ## [Geo News iOS](https://apps.apple.com/pk/app/geo-news-official/id617329127)
+
 ## [Geo News Android](https://play.google.com/store/apps/details?id=com.snr&hl=en_US)
+
 Geo News is a local news channel in Pakistan. We helped them build their initial MVP for both iOS and Android. Users are able to watch news Live through these apps. We helped get this app off the ground.
 
 <p align="center">  
@@ -36,11 +39,13 @@ Geo News is a local news channel in Pakistan. We helped them build their initial
 </p>
 
 ## [Book me iOS](https://apps.apple.com/us/app/bookme-pk-online-ticketing/id1210023165)
+
 ## [Book me Android](https://play.google.com/store/apps/details?id=com.macropaks.bookme&hl=en&gl=US)
 
 Bookme Is Pakistan's First and Largest Online Ticketing Platform That Supports Major Transport Services, Cinemas and Events. We developed native apps for their iOS and Android user bases.
 
-### Technologies ###
+### Technologies
+
 Java, Swift, Objective-C
 
 <p align="center">
@@ -59,13 +64,13 @@ Furthermore, our integration with Discord allows users to connect with fellow re
 
 Our app is user-friendly and intuitive, with a sleek and modern design. We are committed to providing the best possible experience for our users, and our app is constantly updated with new features and content. Whether you are a fan of romance novels or horror stories, our app has something for everyone.
 
-### Technologies ###
+### Technologies
+
 Flutter, Stripe, Firebase
 
 <p align="center">
-<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Creator%20Dashboard.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Creator%20Homepage%20-%20Community.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/e-Reader%20-%20Table%20of%20Contents.png" width="230">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Creator%20Homepage%20-%20Community.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/e-Reader%20-%20Table%20of%20Contents.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/e-Reader.png" width="230">
 </p>
-
 
 ## TipSaved
 
@@ -77,9 +82,10 @@ Our app is user-friendly and intuitive, with a sleek and modern design. Users ca
 
 TipSaved is perfect for individuals and businesses alike, as it saves time and reduces the risk of human error when calculating tips. Users can easily customize their tipping preferences, including their preferred tip percentage, rounding options, and more.
 
-### Technologies ###
+### Technologies
+
 Flutter, Stripe, Firebase
 
 <p align="center">
-<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Creator%20Dashboard.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Creator%20Homepage%20-%20Community.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/e-Reader%20-%20Table%20of%20Contents.png" width="230">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.24.47.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.25.21.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.25.45.png" width="230">
 </p>
