@@ -52,6 +52,20 @@ Java, Swift, Objective-C
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/68/67/05/686705b9-06df-edc0-6c5b-fa973c62186d/pr_source.png/230x0w.webp" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/71/6a/36/716a36c3-58f3-4d95-c69a-402a58545403/pr_source.png/230x0w.webp" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/81/61/af/8161af88-824d-f17e-03de-bbf3c0f86a44/pr_source.png/230x0w.webp" width="230">
 </p>
 
+## [Awesome iOS](https://apps.apple.com/us/app/awesome/id1434720224)
+
+## [Awesome Android](https://play.google.com/store/apps/details?id=one.awesome.appawesome&hl=en&gl=US)
+
+A video sharing app which is inspired by Tiktok. A fun distinguishing feature is the option to share and received coins. These coins hold a real world value and the users can earn these coins by increasing their watch time or share videos.
+
+### Technologies
+
+Java, Swift, Objective-C
+
+<p align="center">
+<img src="https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/76/28/4d/76284d3e-f9ac-c162-d5b5-98fb2a32c7bd/043fd8d0-c4f8-4ad8-8275-365a910c9de3_1.png/230x0w.webp" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/df/a1/85/dfa18530-202c-4c3e-358e-bbc462e8e68f/ee28d428-97be-4015-a6fa-e48e1be88487_2.png/230x0w.webp" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bd/4d/d7/bd4dd711-f70f-d144-ef40-3bc5fb7a0ece/0687ec05-3f2f-4e7e-8d77-18277b323a5f_3.png/230x0w.webp" width="230">
+</p>
+
 ## Litty
 
 Litty was a fantasy book reading app developed by our team. Introducing our innovative story reading app, integrated with Stripe and Discord for a unique and engaging experience.
@@ -89,3 +103,50 @@ Flutter, Stripe, Firebase
 <p align="center">
 <img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.24.47.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.25.21.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.25.45.png" width="230">
 </p>
+
+## WDL
+
+This app helps users to connect with workers of any kind. You can hire workers/labors for your construction, household work or any other stuff. You can define wage and engage as per your requirement
+
+### Technologies
+
+React Native
+
+<p align="center">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/wdl.png" width="690">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+## Prank Packer
+
+Calling app with special sound boards to prank your friends & fMake the funniest phony phone calls. Over 100 Medicated Pete spoken-word drops! Pete Flirts “What are you into? What are your interests?” Pete’s Job Interview “Do I have to be nice and talk to people a lot?” The Wack Packer does the Rappin’..but YOU do the Prankin’ Includes 5 minutes of Audiomoji Call Time (must register)
+• Drop Loads of Sound F/X • Connect with Wi-Fi (VoIP)
+• Record Calls • Call anyone...from anywhere! Audiomoji
+• Barks • Bombs • Burps • Barfing • Farting • Snoring • Clapping • Peeing • Pooping • Poltergeists • Sirens • Zombies • And many, many more...
+
+### Technologies
+
+Objective-C
+
+<p align="center">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/prank.png" width="690">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+## Jukester
+
+Spotify style app An audio streaming and media services provider similar to Spotify. You can listen to music, make your libraries, and share your playlists with your friends.listen to your favourite songs, make playlists & share with firneds.
+
+### Technologies
+
+Objective-C
+
+<p align="center">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/jukester.png" width="690">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+## PayPal
+
+We created the inital MVP for paypal on our web platforms with mobile responsive layouts.
+
+### Technologies
+
+Web
+
+<p align="center">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/paypal.png" width="690">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
