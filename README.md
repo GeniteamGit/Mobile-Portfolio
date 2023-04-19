@@ -69,7 +69,7 @@ Our app is user-friendly and intuitive, with a sleek and modern design. We are c
 Flutter, Stripe, Firebase
 
 <p align="center">
-<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Creator%20Homepage%20-%20Community.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/e-Reader%20-%20Table%20of%20Contents.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/e-Reader.png" width="230">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/Creator%20Homepage%20-%20Community.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/e-Reader%20-%20Table%20of%20Contents.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/e-Reader.png" width="230">
 </p>
 
 ## TipSaved
@@ -87,5 +87,5 @@ TipSaved is perfect for individuals and businesses alike, as it saves time and r
 Flutter, Stripe, Firebase
 
 <p align="center">
-<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.24.47.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.25.21.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.25.45.png" width="230">
+<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.24.47.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.25.21.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GeniteamGit/Mobile-Portfolio/blob/main/imageAssets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-19%20at%2011.25.45.png" width="230">
 </p>
